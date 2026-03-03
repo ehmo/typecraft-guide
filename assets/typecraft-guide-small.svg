@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Typecraft Guide icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#0b5f58" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+  <rect x="11" y="11" width="42" height="42" rx="10" fill="rgba(236,254,255,0.16)" />
+  <text x="32" y="41" text-anchor="middle" dominant-baseline="middle" font-size="28" font-family="'Noto Sans JP','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP',sans-serif" fill="#ecfeff" font-weight="700" letter-spacing="1">字匠</text>
+</svg>

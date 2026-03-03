@@ -1,0 +1,7 @@
+interface:
+  display_name: "Typecraft Guide"
+  short_description: "Typography quality reviews and corrections"
+  icon_small: "./assets/typecraft-guide-small.svg"
+  icon_large: "./assets/typecraft-guide-large.svg"
+  brand_color: "#0f766e"
+  default_prompt: "Use $skill-name to review copy for typography issues and return severity-ranked fixes."

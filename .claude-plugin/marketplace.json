@@ -1,0 +1,23 @@
+{
+  "name": "typecraft-guide",
+  "owner": {
+    "name": "ehmo",
+    "url": "https://github.com/ehmo"
+  },
+  "metadata": {
+    "description": "Codex skill for fast typography evaluation and composition across web, iOS, Android, print, and presentations.",
+    "version": "1.0.0",
+    "repository": "https://github.com/ehmo/typecraft-guide"
+  },
+  "plugins": [
+    {
+      "name": "typecraft-guide",
+      "description": "Concise typography guide with severity-based review and platform-specific defaults.",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/typecraft-guide"
+      ]
+    }
+  ]
+}

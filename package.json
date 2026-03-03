@@ -1,0 +1,24 @@
+{
+  "name": "typecraft-guide",
+  "version": "1.0.0",
+  "description": "A typography skill for fast, actionable typography evaluation and composition guidance.",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skill",
+    "typography",
+    "design",
+    "accessibility",
+    "web",
+    "ios",
+    "android",
+    "writing"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    ".claude-plugin/marketplace.json",
+    "skills/**"
+  ]
+}
